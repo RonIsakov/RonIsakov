@@ -5,7 +5,7 @@
 ## 💻 Tech Stack & Skills
 
 - **Languages:** Java, C, Python, JavaScript, Assembly
-- **Technologies:** Git, Linux, SQL, HTML, CSS, IoT
+- **Knowledge in:** Git, Linux, SQL, HTML, CSS, IoT
 
 ## 🚀 Projects
 
@@ -13,7 +13,8 @@
   Designed, built, and programmed an innovative security system using Arduino Uno and various sensors. Received top marks (100/100) and a citation of excellence.
 
 - **Nand to Tetris**  
-  Completed the full "Nand2Tetris" course, building a general-purpose computer system from scratch—starting with logic gates and ending with a full software hierarchy. Scored 100/100.
+  Completed the full "Nand2Tetris" course, building a general-purpose computer system from scratch—starting with logic gates and ending with a full software hierarchy.
+  Scored on the project 100/100.
 
 ## 🪖 Military Background
 
