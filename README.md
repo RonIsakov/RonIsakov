@@ -9,15 +9,15 @@
 
 ## 🚀 Projects
 
-OSINT Military Base AnalyzerDesigned and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
+- OSINT Military Base AnalyzerDesigned and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
 
-Table Tennis AnalyzerBuilt a performance analysis system for table tennis using YOLO pose estimation, OpenCV, and EasyOCR. Tracked player positions, generated heatmaps, and extracted scoreboard data to visualize score progression. Included real-time frame filtering and CSV-based tracking for in-depth post-match review.
+- Table Tennis AnalyzerBuilt a performance analysis system for table tennis using YOLO pose estimation, OpenCV, and EasyOCR. Tracked player positions, generated heatmaps, and extracted scoreboard data to visualize score progression. Included real-time frame filtering and CSV-based tracking for in-depth post-match review.
 
-Face Recognition Telegram BotDeveloped a Python-based Telegram bot for facial recognition tasks. Features include face registration, identification, celebrity look-alike search, and 2D similarity visualization. Utilized face recognition, real-time image processing, custom reply keyboards, and environment-based configuration.
+- Face Recognition Telegram BotDeveloped a Python-based Telegram bot for facial recognition tasks. Features include face registration, identification, celebrity look-alike search, and 2D similarity visualization. Utilized face recognition, real-time image processing, custom reply keyboards, and environment-based configuration.
 
-Nand to TetrisCompleted the full "Nand2Tetris" course. Built a complete computer system from scratch, from logic gates to a working OS and compiler. Achieved a score of 100/100 on the final project.
+- Nand to TetrisCompleted the full "Nand2Tetris" course. Built a complete computer system from scratch, from logic gates to a working OS and compiler. Achieved a score of 100/100 on the final project.
 
-Icy tower like game full of awsome fetures.
+- Icy tower like game full of awsome fetures.
 
 ## 🪖 Military Background
 
