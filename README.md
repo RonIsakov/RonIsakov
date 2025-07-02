@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-- OSINT Military Base AnalyzerDesigned and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
+- [OSINT Military Base Analyzer](https://github.com/RonIsakov/table-tennis-analyzer) Designed and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
 
 - Table Tennis AnalyzerBuilt a performance analysis system for table tennis using YOLO pose estimation, OpenCV, and EasyOCR. Tracked player positions, generated heatmaps, and extracted scoreboard data to visualize score progression. Included real-time frame filtering and CSV-based tracking for in-depth post-match review.
 
