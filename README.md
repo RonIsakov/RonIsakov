@@ -12,6 +12,8 @@
 - [OSINT Military Base Analyzer](https://github.com/RonIsakov/AI-osint-base-analyzer) Designed and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
 [A short video explaining the project](https://drive.google.com/file/d/1Od0q40_WQNzmkZnDMgwSd2uHXUHau7Nt/view?usp=sharing)
 
+C2 Server Simulation Developed a multi-threaded Command and Control (C2) server and client in Python based on a red-team exercise. Implemented a custom length-prefixed JSON protocol for TCP communication, supporting concurrent clients, thread-safe session management, per-session logging, TLS encryption, and token-based authentication. [A short video explaining the project](https://drive.google.com/file/d/18OWuBhT0OHVSKG2y9L6-VGiFshav3N-M/view?usp=sharing)
+
 - [Table Tennis Analyzer](https://github.com/RonIsakov/table-tennis-analyzer) Built a performance analysis system for table tennis using YOLO pose estimation, OpenCV, and EasyOCR. Tracked player positions, generated heatmaps, and extracted scoreboard data to visualize score progression. Included real-time frame filtering and CSV-based tracking for in-depth post-match review.
 [A short video explaining the project](https://drive.google.com/file/d/1MCE3h4JpCE0O0WTL6ijhRGqKad7QlN1v/view?usp=sharing)
 
@@ -24,19 +26,10 @@
 - [Icy tower - Rapunzel style](https://github.com/RonIsakov/Rapunzel-_icy_tower) A browser-based platformer game inspired by Icy Tower, built with JavaScript, HTML5 Canvas, and CSS. Jump between platforms, avoid enemies, and collect items to achieve the highest score!
 [A short video explaining the project](https://drive.google.com/file/d/1X9dtGl5wVnmnufk-g4SjoBuvl5UeARAo/view?usp=sharing)
 
-## 🪖 Military Background
-
-**Combat Commander – Yahalom Unit (2019–2023)**  
-Led missions in a specialized IDF commando unit for bomb disposal, operating cutting-edge tech including drones and robotics.  
-Gained experience in leadership, operations under pressure, and multidisciplinary team coordination with R&D and intelligence units.  
-Participated in major operations: *Swords of Iron*, *Guardian of the Walls*.
 
 ## 📚 Education
 
 - **Reichman University** – B.Sc. in Computer Science (2023–Present)
-- **Metro West High School** – Full Matriculation (Physics, Engineering, Math, English)  
-  Graduated with 110 GPA  
-  NASA Space School alumnus – Houston, Texas
 
 
 ## 🤝 Volunteering
