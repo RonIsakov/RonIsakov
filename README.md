@@ -6,7 +6,7 @@
 
 - **Languages:** Java, C, Python, JavaScript, Kotlin.
 - **Knowledge in:** Git, Linux, SQL, HTML, CSS, IoT
-- **Knowledge in AI agent development.
+- **Knowledge in:** AI agent development.
 
 ##  Projects
 
@@ -28,15 +28,15 @@
 [A short video explaining the project](https://drive.google.com/file/d/1X9dtGl5wVnmnufk-g4SjoBuvl5UeARAo/view?usp=sharing)
 
 
-## professional experience -AI agent developer Intern – ThetaRay 2025-present
+## professional experience - **AI agent developer Intern**
 - Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
 - I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
 LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 
 ## Military service Team leader – Yahalom 2019-2023
-• Led a bomb-disposal team in Yahalom, operating drones, robots, and classified EOD tech in combat
+- **Led a bomb-disposal team in Yahalom**, operating drones, robots, and classified EOD tech in combat
 conditions.
-• As an NCO I excelled in teamwork and communication, effectively coordinating with R&D teams,
+- As an NCO I excelled in teamwork and communication, effectively coordinating with R&D teams,
 intelligence units, and field personnel to ensure mission success.
 
 
