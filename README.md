@@ -1,13 +1,14 @@
-# 👋 Hi, I'm Ron Isakov
+#  Hi, I'm Ron Isakov
 
-🎓 I'm a Computer Science student at Reichman University, passionate about software development, IoT, AI, and solving complex problems at the intersection of technology and real-world impact.
+ I'm a Computer Science student at Reichman University, passionate about software development, IoT, AI, and solving complex problems at the intersection of technology and real-world impact.
 
-## 💻 Tech Stack & Skills
+##  Tech Stack & Skills
 
 - **Languages:** Java, C, Python, JavaScript, Kotlin.
 - **Knowledge in:** Git, Linux, SQL, HTML, CSS, IoT
+- **Knowledge in AI agent development.
 
-## 🚀 Projects
+##  Projects
 
 - [OSINT Military Base Analyzer](https://github.com/RonIsakov/AI-osint-base-analyzer) Designed and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
 [A short video explaining the project](https://drive.google.com/file/d/1Od0q40_WQNzmkZnDMgwSd2uHXUHau7Nt/view?usp=sharing)
@@ -27,21 +28,33 @@
 [A short video explaining the project](https://drive.google.com/file/d/1X9dtGl5wVnmnufk-g4SjoBuvl5UeARAo/view?usp=sharing)
 
 
-## 📚 Education
+## professional experience -AI agent developer Intern – ThetaRay 2025-present
+- Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
+- I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
+LangGraph on Azure AI Foundry integrate with internal APIs and databases.
+
+## Military service Team leader – Yahalom 2019-2023
+• Led a bomb-disposal team in Yahalom, operating drones, robots, and classified EOD tech in combat
+conditions.
+• As an NCO I excelled in teamwork and communication, effectively coordinating with R&D teams,
+intelligence units, and field personnel to ensure mission success.
+
+
+##  Education
 
 - **Reichman University** – B.Sc. in Computer Science (2023–Present)
 
 
-## 🤝 Volunteering
+##  Volunteering
 
 Mentor for youth with disabilities through structured cycling activities. Developed strong interpersonal and communication skills by building trust, adapting methods, and creating inclusive environments.
 
-## 🌐 Languages
+##  Languages
 
 - Hebrew: Native  
 - English: Native
 
 ---
 
-📫 **Let's connect!**  
+ **Let's connect!**  
 [LinkedIn](https://www.linkedin.com/in/ron-isakov) | 📧 ron.isakov00@gmail.com
