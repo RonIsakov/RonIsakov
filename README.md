@@ -1,7 +1,7 @@
 #  Hi, I'm Ron Isakov
 
 A Back-End Python Developer specializing in AI Agents and Machine Learning. Currently, I build automated
-LLM workflows and integrate APIs using LangGraph, LangChain, and other no code platforms.
+LLM workflows and integrate APIs using python, LangGraph, LangChain, and other no code platforms.
 
 ## Experience
 
