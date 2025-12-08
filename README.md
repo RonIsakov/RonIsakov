@@ -1,12 +1,26 @@
 #  Hi, I'm Ron Isakov
 
- I'm a Computer Science student at Reichman University, passionate about software development, IoT, AI, and solving complex problems at the intersection of technology and real-world impact.
+A Back-End Python Developer specializing in AI Agents and Machine Learning. Currently, I build automated
+LLM workflows and integrate APIs using LangGraph, LangChain, and other no code platforms.
+
+## Experience
+
+**BACK-END PYTHON AI AGENT DEVELOPER | THETARAY 2025**
+- Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
+- I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
+LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 
 ##  Tech Stack & Skills
 
-- **Languages:** Java, C, Python, JavaScript, Kotlin.
-- **Knowledge in:** Git, Linux, SQL, HTML, CSS, IoT
-- **Knowledge in:** AI agent development.
+- Python, Java, C – (grade 89), JS, Kotlin – (grade 91)
+- Git, Linux, SQL HTML, CSS, cloud platforms, Operating Systems – (grade 100)
+- Machine Learning from Data - (grade 96)
+- AI Agent development - N8N, Agentkit, LangGraph
+- Data structures – (grade 91), Algorithms – (grade 84)
+
+  ##  Education
+  
+- **Reichman University** – B.Sc. in Computer Science (2023–Present)
 
 ##  Projects
 
@@ -26,24 +40,6 @@
  
 - [Icy tower - Rapunzel style](https://github.com/RonIsakov/Rapunzel-_icy_tower) A browser-based platformer game inspired by Icy Tower, built with JavaScript, HTML5 Canvas, and CSS. Jump between platforms, avoid enemies, and collect items to achieve the highest score!
 [A short video explaining the project](https://drive.google.com/file/d/1X9dtGl5wVnmnufk-g4SjoBuvl5UeARAo/view?usp=sharing)
-
-
-## professional experience - **AI agent developer Intern**
-- Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
-- I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
-LangGraph on Azure AI Foundry integrate with internal APIs and databases.
-
-## Military service Team leader – Yahalom 2019-2023
-- **Led a bomb-disposal team in Yahalom**, operating drones, robots, and classified EOD tech in combat
-conditions.
-- As an NCO I excelled in teamwork and communication, effectively coordinating with R&D teams,
-intelligence units, and field personnel to ensure mission success.
-
-
-##  Education
-
-- **Reichman University** – B.Sc. in Computer Science (2023–Present)
-
 
 ##  Volunteering
 
