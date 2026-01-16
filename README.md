@@ -39,6 +39,9 @@ LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 - [Face Recognition Telegram Bot](https://github.com/RonIsakov/Telegram_Face_Recognition_Bot) Developed a Python-based Telegram bot for facial recognition tasks. Features include face registration, identification, celebrity look-alike search, and 2D similarity visualization. Utilized face recognition, real-time image processing, custom reply keyboards, and environment-based configuration.
 [A short video explaining the project](https://drive.google.com/file/d/1x9DEMcHjwhARVBkfmXyFi7H4dpwVCI0q/view?usp=sharing)
 
+- Cloud Computing & Distributed Systems [Course Project](https://github.com/RonIsakov/project_2_Cloud_Computing) – Achieved a perfect score (100/100). Architected a high-availability microservices system (Pet Store) using Python (Flask), Docker Compose, and MongoDB. Implemented Nginx as a reverse proxy to handle weighted round-robin load balancing and enforce header-based authentication.
+[Course Project](https://github.com/RonIsakov/project_3_Cloud_Computing) Subsequently migrated the infrastructure to a cloud-native Kubernetes cluster (Kind), orchestrating Deployments, Services, and Persistent Volumes (PV/PVC) while securing API keys with K8s Secrets and automating deployment workflows via Shell scripting.
+
 - Nand to TetrisCompleted the full "Nand2Tetris" course. Built a complete computer system from scratch, from logic gates to a working OS and compiler. Achieved a score of 100/100 on the final project.
 [A short video explaining the project](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
  
