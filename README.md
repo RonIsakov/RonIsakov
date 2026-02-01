@@ -42,7 +42,8 @@ LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 - Cloud Computing & Distributed Systems
 - [Course Project 1](https://github.com/RonIsakov/project_2_Cloud_Computing) – Achieved a perfect score (100/100). Architected a high-availability microservices system (Pet Store) using Python (Flask), Docker Compose, and MongoDB. Implemented Nginx as a reverse proxy to handle weighted round-robin load balancing and enforce
 header-based authentication.
-- [Course Project 2](https://github.com/RonIsakov/project_3_Cloud_Computing) Subsequently migrated the infrastructure to a cloud-native Kubernetes cluster (Kind), orchestrating Deployments, Services, and Persistent Volumes (PV/PVC) while securing API keys with K8s Secrets and automating deployment workflows via Shell scripting.
+- [Course Project 2](https://github.com/RonIsakov/project_3_Cloud_Computing) - Subsequently migrated the infrastructure to a cloud-native Kubernetes cluster (Kind), orchestrating Deployments, Services, and Persistent Volumes (PV/PVC) while securing API keys with K8s Secrets and automating deployment workflows via Shell scripting.
+- [Course Project 3](https://github.com/RonIsakov/project_4_Cloud_Computing) – Developed a sophisticated three-stage CI/CD pipeline using GitHub Actions (Build, Test, and Query). Engineered a microservices architecture involving Flask and MongoDB with automated container health checks and parallel image builds via Docker Buildx. Implemented automated testing with pytest and a dynamic query execution system for processing runtime test cases from external files.
 
 - Nand to TetrisCompleted the full "Nand2Tetris" course. Built a complete computer system from scratch, from logic gates to a working OS and compiler. Achieved a score of 100/100 on the final project.
 [A short video explaining the project](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
