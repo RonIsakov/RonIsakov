@@ -15,7 +15,8 @@ LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 - Python, Java, C – (grade 89), JS, Kotlin – (grade 91)
 - Git, Linux, SQL HTML, CSS, cloud platforms, Operating Systems – (grade 100)
 - Machine Learning from Data - (grade 96)
-- AI Agent development - N8N, Agentkit, LangGraph
+- Cloud Computing - (grade 98) 
+- AI Agent development - n8n, Agentkit, LangGraph, LangChain
 - Data structures – (grade 91), Algorithms – (grade 84)
 
   ##  Education
