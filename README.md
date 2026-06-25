@@ -60,7 +60,8 @@ header-based authentication.
 
 ##  Volunteering
 
-**[Hackaveret](https://hackaveret.org/) Mentor — Code4Good**
+**[Hackaveret](https://hackaveret.org/) Mentor - Code4Good**
+
 As a volunteer developer in Code4Good program, co-built a citation-grounded,RAG document system for the Hackaveret social-entrepreneurship accelerator. The system turns a curated corpus of 175+ source documents (PDF, DOCX, XLSX) into a personalized, self-maintaining action plan — a hierarchical, exportable checklist whose every item is grounded in, and traceable to, a specific source file.
 
 Architected as a stateless FastAPI backend with a React/Vite frontend, a ChromaDB vector store, and AWS Bedrock for both generation (Claude Sonnet) and multilingual embeddings (Cohere Embed Multilingual v3). All per-session state lives in the browser, keeping the backend horizontally scalable and privacy-light.
