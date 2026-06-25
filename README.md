@@ -14,19 +14,6 @@ I enjoy turning AI from buzzword into business value. As a Generative AI Enginee
 - I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
 LangGraph on Azure AI Foundry integrate with internal APIs and databases.
 
-##  Tech Stack & Skills
-
-- Python, Java, C – (grade 89), JS, Kotlin – (grade 91)
-- Git, Linux, SQL HTML, CSS, cloud platforms, Operating Systems – (grade 100)
-- Machine Learning from Data - (grade 96)
-- Cloud Computing - (grade 98) 
-- AI Agent development - n8n, Agentkit, LangGraph, LangChain
-- Data structures – (grade 91), Algorithms – (grade 84)
-
-  ##  Education
-  
-- **Reichman University** – B.Sc. in Computer Science (2023–Present)
-
 ##  Projects
 
 - [OSINT Military Base Analyzer](https://github.com/RonIsakov/AI-osint-base-analyzer) Designed and implemented a Python-based OSINT pipeline to analyze satellite imagery of military bases. Automated Google Earth navigation and screenshot capture using Selenium. Integrated vision-enabled LLMs (via Google AI Studio and OpenRouter) to assess images, generate JSON-based intelligence reports, and propose follow-up actions. A final "commander" model synthesized insights. Results were presented via a dynamic Streamlit GUI.
@@ -61,6 +48,19 @@ header-based authentication.
  
 - [Icy tower - Rapunzel style](https://github.com/RonIsakov/Rapunzel-_icy_tower) A browser-based platformer game inspired by Icy Tower, built with JavaScript, HTML5 Canvas, and CSS. Jump between platforms, avoid enemies, and collect items to achieve the highest score!
 [A short video explaining the project](https://drive.google.com/file/d/1X9dtGl5wVnmnufk-g4SjoBuvl5UeARAo/view?usp=sharing)
+
+##  Tech Stack & Skills
+
+- Python, Java, C – (grade 89), JS, Kotlin – (grade 91)
+- Git, Linux, SQL HTML, CSS, cloud platforms, Operating Systems – (grade 100)
+- Machine Learning from Data - (grade 96)
+- Cloud Computing - (grade 98) 
+- AI Agent development - n8n, Agentkit, LangGraph, LangChain
+- Data structures – (grade 91), Algorithms – (grade 84)
+
+##  Education
+
+- **Reichman University** – B.Sc. in Computer Science (2023–Present)
 
 ##  Volunteering
 
