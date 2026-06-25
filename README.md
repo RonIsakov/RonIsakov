@@ -1,7 +1,6 @@
 #  Hi, I'm Ron Isakov
 
-A Back-End Python Developer specializing in AI Agents and Machine Learning. Currently, I build automated
-LLM workflows and integrate APIs using python, LangGraph, LangChain, and other no code platforms.
+I enjoy turning AI from buzzword into business value. As a Generative AI Engineer, I build end to end GenAI solutions from early POC to production helping organizations unlock what's actually possible with LLMs, agents, and cloud-native architectures.
 
 ## Experience
 
@@ -10,7 +9,7 @@ LLM workflows and integrate APIs using python, LangGraph, LangChain, and other n
 - Build end-to-end GenAI solutions for enterprise clients across diverse industries by designing production-grade microservices architectures in Python and deploying them on GCP, Azure, and AWS cloud-native AI services.
 - Translate client business needs into feasible technical solutions by leading requirement-gathering sessions, implementing multi-agent orchestration and prompt engineering with LangChain and major model APIs (OpenAI, Anthropic, Google), and continuously evaluating emerging GenAI models and frameworks.
 
-**BACK-END PYTHON AI AGENT DEVELOPER | THETARAY 2025**
+**GENERATIVE AI ENGINEER INTERN | THETARAY 2025**
 - Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
 - I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
 LangGraph on Azure AI Foundry integrate with internal APIs and databases.
