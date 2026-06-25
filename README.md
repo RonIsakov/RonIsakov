@@ -5,6 +5,11 @@ LLM workflows and integrate APIs using python, LangGraph, LangChain, and other n
 
 ## Experience
 
+**GENERATIVE AI ENGINEER | KPMG ISRAEL 2026**
+- Delivered a production-grade GenAI chatbot for Clalit - Israel's largest healthcare provider, serving 4.7M+ users - by owning the end-to-end Python backend from proof-of-concept through production deployment.
+- Build end-to-end GenAI solutions for enterprise clients across diverse industries by designing production-grade microservices architectures in Python and deploying them on GCP, Azure, and AWS cloud-native AI services.
+- Translate client business needs into feasible technical solutions by leading requirement-gathering sessions, implementing multi-agent orchestration and prompt engineering with LangChain and major model APIs (OpenAI, Anthropic, Google), and continuously evaluating emerging GenAI models and frameworks.
+
 **BACK-END PYTHON AI AGENT DEVELOPER | THETARAY 2025**
 - Collaborate with the Data team to design and develop LLM agents that automate analyst workflows.
 - I implement LLM decision logic and multi-agent orchestration in Python with LangChain and
@@ -66,7 +71,7 @@ header-based authentication.
 
   Architected as a stateless FastAPI backend with a React/Vite frontend, a ChromaDB vector store, and AWS Bedrock for both generation (Claude Sonnet) and multilingual embeddings (Cohere Embed Multilingual v3). All per-session state lives in the browser, keeping the backend horizontally scalable and privacy-light.
 
-  Each session opens with a five-question onboarding wizard; a single LLM call classifies the venture into one of six development stages with a calibrated probability distribution, evaluated against a 25-case Hebrew golden-standard set. Every chat turn then runs an identical "one turn, one call, four verdicts" pipeline — embed query → retrieve top-3 chunks → one LLM call returning a discriminated-union JSON verdict: answer, clarify, refuse (an in-prompt, injection-resistant guardrail), or propose a stage reclassification. The answer verdict carries structured edits (complete / add / remove) addressed by stable task identifiers, which the frontend applies directly to the plan — the user never hand-edits it; the document maintains itself with full provenance and exports as a portable text artifact. Reviewd as a co-authored demonstration at **DocEng '26**, the ACM Symposium on Document Engineering (Fribourg, Switzerland).
+  Each session opens with a five-question onboarding wizard; a single LLM call classifies the venture into one of six development stages with a calibrated probability distribution, evaluated against a 25-case Hebrew golden-standard set. Every chat turn then runs an identical "one turn, one call, four verdicts" pipeline — embed query → retrieve top-3 chunks → one LLM call returning a discriminated-union JSON verdict: answer, clarify, refuse (an in-prompt, injection-resistant guardrail), or propose a stage reclassification. The answer verdict carries structured edits (complete / add / remove) addressed by stable task identifiers, which the frontend applies directly to the plan — the user never hand-edits it; the document maintains itself with full provenance and exports as a portable text artifact. Reviewed as a co-authored demonstration at **DocEng '26**, the ACM Symposium on Document Engineering (Fribourg, Switzerland).
 
   [Paper (PDF)](https://drive.google.com/file/d/1kbagEnZCX9TVHWd1Y7fkXFDg0b26qALJ/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1kmjlhH-JuMl7OIbPfdC3EEEyGmHUh99E/view?usp=sharing) | [A short video explaining the project](https://drive.google.com/file/d/1P6wjVvUUqqTgkmDU3o0MpOI7OgRIwkLS/view?usp=sharing)
 
